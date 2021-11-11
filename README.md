@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Health/Data Scientist.
-- 🌱 I’m currently learning Go, C++, C#, and Bayesian Models with R.
+- 🌱 I’m currently learning Go, C++, C#, and Bayesian Modeling with R.
 - 👯 I’m looking to collaborate on R packages.
 - 💬 Ask me about R, R Shiny, R Markdown, and Python programming.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/roseric-azondekon-phd-mph-ms-a8385059/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:rosericazondekon@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://stackoverflow.com/users/9065044/pbk1303?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
