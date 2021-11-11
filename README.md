@@ -1,6 +1,6 @@
 ### Hi there. I am Roseric 👋  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rosericazondekon.repoName)
 
-Welcome to my Profile. 
+Welcome to my Profile
 
 
 <!--
