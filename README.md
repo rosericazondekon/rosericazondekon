@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-- 🔭 I’m currently working as a Health/Data Scientist at the Centers for Disease Control and Prevention ([CDC](https://www.cdc.gov)).
+- 🔭 I’m currently working as a Health/Data Scientist.
 - 🧱 I am the creator and maintainer of the [Rnssp R package](https://github.com/CDCgov/Rnssp), the [Rnssp R Markdown templates](https://github.com/CDCgov/Rnssp-rmd-templates), and the [Rnssp templates documentation](https://github.com/CDCgov/Rnssp-templates-docs) repositories.
 - 🌱 I’m currently learning ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white), and Bayesian Modeling with ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white).
 - 👯 I’m looking to collaborate on R packages.
