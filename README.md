@@ -59,4 +59,3 @@ Here are some ideas to get you started:
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rosericazondekon&layout=compact&theme=dark&hide=html)
- ![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?rosericazondekon)
