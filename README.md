@@ -58,4 +58,5 @@ Here are some ideas to get you started:
 
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rosericazondekon&layout=compact&theme=dark&hide=html)
+<!--  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rosericazondekon&layout=compact&theme=dark&hide=html) -->
+<img src="https://github.com/rosericazondekon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/rosericazondekon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
