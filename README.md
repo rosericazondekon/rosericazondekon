@@ -1,4 +1,4 @@
-### Hi there. I am Roseric 👋  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rosericazondekon.rosericazondekon)
+### Hi there. I am Roseric 👋  <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rosericazondekon.rosericazondekon) -->
 
 Welcome to my Profile
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #### Github Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rosericazondekon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosericazondekon&theme=dark" width="48%" > -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rosericazondekon&theme=dark" width="48%" >
 <img src="https://github.com/rosericazondekon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 ### My Stackoverflow Stats
