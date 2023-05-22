@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 #### Github Stats
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rosericazondekon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosericazondekon&theme=dark" width="48%" align="left" />
-<img src="https://github.com/rosericazondekon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/rosericazondekon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="right" />
 
 ### My Stackoverflow Stats
 <a href="https://stackoverflow.com/users/9065044/roseric-azondekon"><img src="https://stackoverflow.com/users/flair/9065044.png" width="208" height="58" alt="profile for Roseric Azondekon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Roseric Azondekon at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
