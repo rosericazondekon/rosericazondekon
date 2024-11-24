@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently working as a Health/Data Scientist.
 - 🧱 I am the creator and maintainer of the [pynssp Python package](https://github.com/CDCgov/pynssp), the [Rnssp R package](https://github.com/CDCgov/Rnssp), the [Rnssp R Markdown templates](https://github.com/CDCgov/Rnssp-rmd-templates), and the [Rnssp templates documentation](https://github.com/CDCgov/Rnssp-templates-docs) repositories.
-- 🌱 I am currently learning ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), and ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) programming.
+- 🌱 I am currently learning ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), and ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) programming.
 - 👯 I am looking to collaborate on R and Python package development.
 - 💬 Ask me about R, R Shiny, R Markdown, and Python programming.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/roseric-azondekon-phd-mph-ms-a8385059/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:roseric_2000@yahoo.fr">![Email Me!!](https://img.shields.io/badge/Yahoo!-6001D2?logo=yahoo&logoColor=fff&style=flat-square)</a> <a href="https://stackoverflow.com/users/9065044/pbk1303?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
