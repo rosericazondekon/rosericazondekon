@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
+
 #### Github Stats
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rosericazondekon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosericazondekon&theme=dark" width="48%" align="left" />
